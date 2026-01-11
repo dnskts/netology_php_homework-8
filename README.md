@@ -1,1 +1,1 @@
-# netology_php_homework-8
+[Задание 2: создание и загрузка приложения на хостинг](https://github.com/netology-code/bphp-2-homeworks/blob/master/008-heroku/exercise-02.md)
